@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.List;
 
-public class Exporter extends ExportConfig {
+public class Exporter {
     ExportConfig config;
     public Exporter(ExportConfig config) {
         this.config = config;
