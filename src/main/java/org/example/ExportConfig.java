@@ -1,5 +1,6 @@
 package org.example;
 
+// immutability
 public class ExportConfig {
     final String file;
     final String title;
